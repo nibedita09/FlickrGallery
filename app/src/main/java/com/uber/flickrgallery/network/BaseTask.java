@@ -2,11 +2,8 @@ package com.uber.flickrgallery.network;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-
 import com.google.gson.Gson;
-
 import java.io.BufferedReader;
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
